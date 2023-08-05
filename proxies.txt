@@ -1,2 +1,2 @@
-proxy
-proxy
+proxy(login:pass@ip:port)
+proxy(login:pass@ip:port)
