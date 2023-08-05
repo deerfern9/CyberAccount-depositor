@@ -5,7 +5,7 @@ from eth_account.messages import encode_defunct
 
 use_proxy = int(input('Use proxy? 0/1: '))
 dep_amount = int(input('0. 2 MATIC\n1. Custom amount\nEnter amount id: '))
-amoumt = 0
+amount = 0
 if dep_amount == 1:
     amount = input('Enter amount: ')
 
